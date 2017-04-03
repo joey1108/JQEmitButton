@@ -3,9 +3,10 @@
 
 > "今日头条" app 的直播间 点赞效果！
 
-![image](screenshort1.gif)
 
-![image](screenshort2.gif)
+<img src="screenshort1.gif" width="50%" height="50%" />
+
+<img src="screenshort2.gif" width="50%" height="50%" />
 
 
 JQEmitButton is a subclass of UIButton and perform dazzle animation for touch event.It is easily to use and custom your style.
@@ -36,13 +37,13 @@ emitterBtn.emit(count: 100)
 
 
 ## Requirement
-===========
+
 * iOS 10.0+
 
 
 
 ## Release Notes
-==============
+
 * Ver 1.0
   - First Commit
 
